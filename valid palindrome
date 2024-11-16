@@ -1,0 +1,64 @@
+125. Valid Palindrome
+easy problem
+A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+
+Given a string s, return true if it is a palindrome, or false otherwise.
+
+ 
+
+Example 1:
+
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+Explanation: "amanaplanacanalpanama" is a palindrome.
+Example 2:
+
+Input: s = "race a car"
+Output: false
+Explanation: "raceacar" is not a palindrome.
+
+class Solution {
+public:
+    string ans;
+    bool alphanumeric(char ch){
+        if((ch >='a' && ch<='z') || (ch >='A' && ch<='Z') || (ch >='0' && ch<='9')){
+            return 1;
+        }
+        else {
+            return 0;
+        }
+    }
+
+    char lowercase(char c){
+        if((c >='a' && c<='z') || (c >='0' && c<='9')){
+            return c;
+        }
+        else{
+            char temp=c-'A'+'a';
+            return temp;
+        }
+    }
+    bool isPalindrome(string s) {
+        int size=s.length();
+        for(int i=0;i<size;i++){
+            if(alphanumeric(s[i])==true){
+                ans.push_back(s[i]);
+
+            }
+        }
+        for(int j=0;j<ans.length();j++){
+            ans[j]=lowercase(ans[j]);
+        }
+        int start=0,end=ans.length()-1;
+        for(int k=0;k<ans.length();k++){
+            if(ans[start]!=ans[end]){
+                return false;
+            }else{
+            start++;
+            end--;
+            }
+        }
+        return true;
+    }
+
+};
