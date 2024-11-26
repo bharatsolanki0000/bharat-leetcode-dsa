@@ -1,0 +1,72 @@
+567. Permutation in String
+medium problem
+Given two strings s1 and s2, return true if s2 contains a 
+permutation
+ of s1, or false otherwise.
+
+In other words, return true if one of s1's permutations is the substring of s2.
+
+Example 1:
+Input: s1 = "ab", s2 = "eidbaooo"
+Output: true
+Explanation: s2 contains one permutation of s1 ("ba").
+
+Example 2:
+Input: s1 = "ab", s2 = "eidboaoo"
+Output: false
+
+class Solution {
+
+public:
+    bool check(int tofind[26], int plane[26]) {
+        for (int k = 0; k < 26; k++) {
+            if (tofind[k] != plane[k]) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    bool checkInclusion(string s1, string s2) {
+        int tofind[26] = {0};
+
+        // for window array
+        for (int i = 0; i < s1.length(); i++) {
+            int index = s1[i] - 'a';
+            tofind[index]++;
+        }
+
+        int window = s1.length();
+        int plane[26] = {0};
+        int j = 0;
+
+        // for plane array
+        while (j < window && j < s2.length()) {
+            int index = s2[j] - 'a';
+            plane[index]++;
+            j++;
+        }
+        // checking first window on plane
+        if (check(tofind, plane)) {
+            return true;
+        }
+
+        while (j < s2.length()) {
+            char newchar = s2[j];
+            int index = newchar - 'a';
+            plane[index]++;
+
+            char oldchar = s2[j - window];
+            index = oldchar - 'a';
+            plane[index]--;
+            j++;
+
+            if (check(tofind, plane)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+};
+
