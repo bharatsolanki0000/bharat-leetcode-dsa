@@ -1,0 +1,61 @@
+784. Letter Case Permutation
+medium
+Given a string s, you can transform every letter individually to be lowercase or uppercase to create another string.
+
+Return a list of all possible strings we could create. Return the output in any order.
+
+ 
+
+Example 1:
+
+Input: s = "a1b2"
+Output: ["a1b2","a1B2","A1b2","A1B2"]
+Example 2:
+
+Input: s = "3z4"
+Output: ["3z4","3Z4"]
+ 
+
+Constraints:
+
+1 <= s.length <= 12
+s consists of lowercase English letters, uppercase English letters, and digits.
+
+class Solution {
+private:
+    void permu(string s, vector<string>& ans, int index) {
+        // isalpha()  give 1 if it is a alphabet
+        // tolower()  gives lowercase alphabet
+        // toupper()   give uppercase
+
+        if (index >= s.length()) {
+            ans.push_back(s);
+            return;
+        }
+
+        if (isalpha(s[index])) {
+            // lower
+            s[index] = tolower(s[index]);
+            permu(s, ans, index + 1);
+
+            // upper
+            s[index] = toupper(s[index]);
+            permu(s, ans, index + 1);
+        } else {
+            // numeric
+
+            permu(s, ans, index + 1);
+        }
+    }
+
+public:
+    vector<string> letterCasePermutation(string s) {
+
+        vector<string> ans;
+        int index = 0;
+
+        permu(s, ans, index);
+        return ans;
+    }
+};
+
