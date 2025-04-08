@@ -1,0 +1,118 @@
+148. Sort List
+Solved
+Medium
+Topics
+Companies
+Given the head of a linked list, return the list after sorting it in ascending order.
+
+ 
+
+Example 1:
+
+
+Input: head = [4,2,1,3]
+Output: [1,2,3,4]
+Example 2:
+
+
+Input: head = [-1,5,3,4,0]
+Output: [-1,0,3,4,5]
+Example 3:
+
+Input: head = []
+Output: []
+ 
+
+Constraints:
+
+The number of nodes in the list is in the range [0, 5 * 104].
+-105 <= Node.val <= 105
+
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+    private:
+    ListNode* merge(ListNode* first, ListNode* second){
+        ListNode* ans=new ListNode(0);
+        ListNode* temp=ans;
+
+        if(first==nullptr){
+            return second;
+        }
+
+        if(second==nullptr){
+            return first;
+        }
+
+        while(first!=nullptr && second!=nullptr){
+            if(first->val <=second->val){
+                temp->next=new ListNode(first->val);
+                first=first->next;
+                
+            }
+            else{
+                temp->next=new ListNode(second->val);
+                second=second->next;
+            }
+            temp=temp->next;
+        }
+
+        while(first!=nullptr){
+             temp->next=new ListNode(first->val);
+            first=first->next;
+             temp=temp->next;
+        }
+
+        while(second!=nullptr){
+            temp->next=new ListNode(second->val); 
+                second=second->next;
+                 temp=temp->next;
+        }
+        return ans->next;
+    }
+    ListNode* middle(ListNode* curr){
+        ListNode* slow=curr, * fast=curr,*gotit;
+        while(fast!=nullptr && fast->next!=nullptr){
+            gotit=slow;
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+
+        return gotit;
+    }
+public:
+    ListNode* sortList(ListNode* head) {
+        if(head==nullptr || head->next ==nullptr){
+            return head;
+        }
+
+        //middle mil gya
+        ListNode* mid=middle(head);
+
+        //divide into 2 list
+        //second list
+        ListNode* second=mid->next;
+        mid->next=nullptr;
+        
+        // first node
+        ListNode* first=head;
+        //recursion sambhal lega
+
+        first=sortList(first);
+        second=sortList(second); 
+
+        ListNode* result=merge(first,second);
+        return result;
+
+
+
+    }
+};
