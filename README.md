@@ -27,6 +27,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0031-next-permutation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Dynamic Programming
 |  |
@@ -35,11 +36,13 @@ with code and questions of my 100 days of dsa
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0088-merge-sorted-array) |
 ## Matrix
 |  |
 | ------- |
