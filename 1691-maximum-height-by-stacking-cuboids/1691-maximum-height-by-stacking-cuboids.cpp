@@ -19,6 +19,28 @@ class Solution {
 
         return max(take, notTake);
     }
+
+    int tabuSolve(vector<vector<int>> &cuboids){
+        
+        vector<int> dp(cuboids.size(), 0);
+       
+        
+        for(int index=0;index<cuboids.size();index++){
+            dp[index] = cuboids[index][2];
+            for(int lastIndex=0;lastIndex<index;lastIndex++){
+                if(cuboids[lastIndex][0] <=cuboids[index][0] 
+                && cuboids[lastIndex][1]<=cuboids[index][1] 
+                && cuboids[lastIndex][2]<=cuboids[index][2]){
+
+                   dp[index]=max(cuboids[index][2]+dp[lastIndex], dp[index]);
+                }
+                
+            }
+
+        }
+        return *max_element(dp.begin(), dp.end());
+
+    }
 public:
     int maxHeight(vector<vector<int>>& cuboids) {
         
@@ -32,7 +54,9 @@ public:
         sort(cuboids.begin(), cuboids.end());
 
         // now we will do longest incerasing subsequence thing on w and l to get max height 
-        return solve(cuboids, 0, -1,-1,-1);
+        //return solve(cuboids, 0, -1,-1,-1);
+
+        return tabuSolve(cuboids);
 
     }
 };
