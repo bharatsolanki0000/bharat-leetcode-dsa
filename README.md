@@ -8,6 +8,7 @@ with code and questions of my 100 days of dsa
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0067-add-binary) |
 ## String
 |  |
@@ -25,6 +26,7 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0048-rotate-image) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Dynamic Programming
 |  |
@@ -38,4 +40,8 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0031-next-permutation) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
