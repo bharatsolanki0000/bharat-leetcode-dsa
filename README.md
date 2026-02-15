@@ -24,6 +24,7 @@ with code and questions of my 100 days of dsa
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0031-next-permutation) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Dynamic Programming
 |  |
@@ -33,4 +34,8 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
