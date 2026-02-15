@@ -18,6 +18,7 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -28,6 +29,7 @@ with code and questions of my 100 days of dsa
 | [0031-next-permutation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Dynamic Programming
 |  |
@@ -43,8 +45,13 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0031-next-permutation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
