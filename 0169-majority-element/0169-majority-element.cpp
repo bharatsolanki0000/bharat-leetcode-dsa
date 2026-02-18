@@ -1,16 +1,21 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_map<int,int> votes;
+        int element=nums[0];
+        int count=0;
 
-        float exceedVotes=nums.size()/2;
         for(int i=0;i<nums.size();i++){
-            votes[nums[i]]++;
-            
-            if(votes[nums[i]]>exceedVotes){
-                return nums[i];
+
+            if(count==0){
+                element=nums[i];
+            }
+            if(nums[i]==element){
+                count++;
+            }
+            else{
+                count--;
             }
         }
-        return -1;
+        return element;
     }
 };
