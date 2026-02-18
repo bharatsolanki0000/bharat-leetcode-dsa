@@ -44,6 +44,7 @@ with code and questions of my 100 days of dsa
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0198-house-robber) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Sorting
