@@ -2,14 +2,12 @@ class Solution {
 public:
     bool hasAlternatingBits(int n) {
         
-        bitset<32> bits(n);
-        int lastBit=log2(n);
+        //right shift
+        long long newBits=n>>1;
 
-        for(int i=0;i<=lastBit;i++){
-            if(bits[i]==bits[i+1]){
-                return false;
-            }
-        }
-        return true;
+        long long xored=n^newBits;
+
+        return (xored & xored+1)==0;
+        
     }
 };
