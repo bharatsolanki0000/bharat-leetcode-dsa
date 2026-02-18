@@ -9,6 +9,7 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0067-add-binary) |
 ## String
 |  |
@@ -91,4 +92,8 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
