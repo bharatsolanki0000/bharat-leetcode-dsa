@@ -42,6 +42,7 @@ with code and questions of my 100 days of dsa
 | [0229-majority-element-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0416-partition-equal-subset-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ with code and questions of my 100 days of dsa
 | [0124-binary-tree-maximum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
