@@ -122,6 +122,7 @@ with code and questions of my 100 days of dsa
 | [0002-add-two-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,5 +155,6 @@ with code and questions of my 100 days of dsa
 | [0002-add-two-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
