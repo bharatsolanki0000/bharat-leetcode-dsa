@@ -40,6 +40,7 @@ with code and questions of my 100 days of dsa
 | [0064-minimum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0229-majority-element-ii) |
@@ -118,6 +119,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0001-two-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0229-majority-element-ii) |
 ## Counting
@@ -133,4 +135,8 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
