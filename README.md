@@ -116,6 +116,7 @@ with code and questions of my 100 days of dsa
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
@@ -143,4 +144,8 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
