@@ -75,6 +75,7 @@ with code and questions of my 100 days of dsa
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
@@ -151,6 +152,7 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
