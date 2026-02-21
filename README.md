@@ -8,6 +8,7 @@ with code and questions of my 100 days of dsa
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0062-unique-paths) |
@@ -117,6 +118,7 @@ with code and questions of my 100 days of dsa
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0050-powx-n) |
 ## Hash Table
@@ -148,6 +150,7 @@ with code and questions of my 100 days of dsa
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
