@@ -28,6 +28,7 @@ with code and questions of my 100 days of dsa
 | [0287-find-the-duplicate-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0868-binary-gap) |
 ## Simulation
 |  |
 | ------- |
