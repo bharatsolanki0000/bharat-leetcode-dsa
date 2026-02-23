@@ -20,7 +20,6 @@ public:
             if(allNodes.count(headB)){
                 return headB;
             }
-            allNodes.insert(headB);
             headB=headB->next;
         }
 
