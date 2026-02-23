@@ -17,37 +17,15 @@ class Solution {
         if(!second){
             return first;
         }
-
-       
-        ListNode* temp=new ListNode(0);
-         ListNode* result=temp;
-
-        while(first && second){
+      
             if(first->val < second->val){
-                temp->next=first;
-                temp=temp->next;
-                first=first->next;
+                first->next=sortedList(first->next, second);
+                return first;
             }
             else{
-                temp->next=second;
-                temp=temp->next;
-                second=second->next;
+               second->next=sortedList(first, second->next);
+               return second;
             }
-        }
-
-        while(first){
-            temp->next=first;
-            temp=temp->next;
-            first=first->next;
-        }
-
-        while(second){
-            temp->next=second;
-            temp=temp->next;
-            second=second->next;
-        }
-
-        return result->next;
         
     }
 public:
