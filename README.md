@@ -110,14 +110,17 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Greedy
 |  |
 | ------- |
