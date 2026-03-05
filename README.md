@@ -112,16 +112,19 @@ with code and questions of my 100 days of dsa
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Greedy
@@ -197,4 +200,8 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
