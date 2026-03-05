@@ -44,6 +44,7 @@ with code and questions of my 100 days of dsa
 | [0048-rotate-image](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0169-majority-element) |
@@ -61,6 +62,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0062-unique-paths](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0198-house-robber) |
