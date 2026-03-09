@@ -113,6 +113,7 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0374-guess-number-higher-or-lower) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 ## Divide and Conquer
 |  |
@@ -236,4 +237,8 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0096-unique-binary-search-trees) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
