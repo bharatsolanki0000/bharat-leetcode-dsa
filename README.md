@@ -14,6 +14,7 @@ with code and questions of my 100 days of dsa
 | [0062-unique-paths](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0096-unique-binary-search-trees) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## String
 |  |
@@ -73,6 +74,7 @@ with code and questions of my 100 days of dsa
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0198-house-robber) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
@@ -241,4 +243,8 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0374-guess-number-higher-or-lower) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
