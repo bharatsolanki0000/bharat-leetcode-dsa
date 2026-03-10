@@ -86,6 +86,38 @@ class Solution {
 
          return dp[0][1][2];
     }
+
+     int soSolve(vector<int>& prices){
+         vector<vector<int>> curr(2, vector<int> (3,0));
+          vector<vector<int>> next(2, vector<int> (3,0));
+
+            int n=prices.size();
+         for(int index=n-1;index>=0;index--){
+
+            for(int buy=0;buy<=1;buy++){
+
+                for(int limit=1;limit<=2;limit++){
+                      int profit=0;
+                        if(buy==1){
+                            //buy or ignore
+                            int buyStock=-prices[index]+next[0][limit];
+                            int ignoreBuy=next[1][limit];
+                            profit=max(buyStock,ignoreBuy);
+                        }
+                        else{
+                            //sell of ignore
+                            int sellStock=prices[index]+next[1][limit-1];
+                            int ignoreSell=next[0][limit];
+                            profit=max(sellStock,ignoreSell); 
+                        }
+                       curr[buy][limit]=profit;
+                }
+            }
+            next=curr;
+         }
+
+         return next[1][2];
+    }
 public:
     int maxProfit(vector<int>& prices) {
        //return solve(prices, 0,1,2);
@@ -94,6 +126,7 @@ public:
 
     //    return dpSolve(prices,0,1,2,dp);
 
-    return tabuSolve(prices);
+        //return tabuSolve(prices);
+        return soSolve(prices);
     }
 };
