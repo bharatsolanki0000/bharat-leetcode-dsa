@@ -70,13 +70,53 @@ class Solution {
 
         return dp[index][buy][k]=profit;
     }
+
+    int tabuSolve(int k, vector<int>& prices){
+        int limit=k;
+        vector<vector<vector<int>>> dp(prices.size()+1,
+        vector<vector<int>>
+         (2, vector<int> (k+1, 0)));
+
+            int n=prices.size();
+         for(int index=n-1;index>=0;index--){
+            for(int buy=0;buy<=1;buy++){
+                for(int k=1;k<=limit;k++){
+                    int profit=0;
+                    if(buy){
+                        //buy
+
+                        int buyStock=-prices[index]+dp[index+1][0][k];
+
+                        int ignoreBuy=dp[index+1][1][k];
+
+                        profit=max(buyStock,ignoreBuy);
+                    }
+                    else{
+                        //sell
+
+                        int sellStock=prices[index]+dp[index+1][1][k-1];
+
+                        int ignoreSell=dp[index+1][0][k];
+
+                        profit=max(sellStock,ignoreSell);
+                    }
+
+                    dp[index][buy][k]=profit;
+                }
+            }
+         }
+
+         return dp[0][1][limit];
+    }
 public:
     int maxProfit(int k, vector<int>& prices) {
         //return solve(k,prices,0,1);
 
-        vector<vector<vector<int>>> dp(prices.size()+1,
-        vector<vector<int>>
-         (2, vector<int> (k+1, -1)));
-         return dpSolve(k,prices,0,1,dp);
+        // vector<vector<vector<int>>> dp(prices.size()+1,
+        // vector<vector<int>>
+        //  (2, vector<int> (k+1, -1)));
+        //  return dpSolve(k,prices,0,1,dp);
+
+        return tabuSolve(k,prices);
     }
 };
