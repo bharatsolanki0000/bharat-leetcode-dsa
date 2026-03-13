@@ -74,6 +74,32 @@ class Solution {
 
         return dp[0][s.length()-1];
     }
+
+    int soSolve(string s){
+       vector<int> curr(s.length()+1,0);
+       vector<int> next(s.length()+1,0);
+
+        for(int i=s.length()-1;i>=0;i--){
+            for(int j=i;j<=s.length()-1;j++){
+                int ans=0;
+                if(i==j){
+                    ans=1;
+                }
+                else if(s[i]==s[j]){
+                    ans=2+next[j-1];
+                }
+                else{
+                    int moveI=next[j];
+                    int moveJ=curr[j-1];
+                    ans=max(moveI,moveJ);
+                }
+                curr[j]=ans;
+            }
+            next=curr;
+        }
+
+        return next[s.length()-1];
+    }
 public:
     int longestPalindromeSubseq(string s) {
         //return solve(s,0,s.length()-1);
@@ -81,6 +107,8 @@ public:
         // vector<vector<int>> dp(s.length()+1, vector<int>(s.length()+1,-1));
         // return dpSolve(s,0,s.length()-1,dp);
 
-        return tabuSolve(s);
+        //return tabuSolve(s);
+
+        return soSolve(s);
     }
 };
