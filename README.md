@@ -22,6 +22,7 @@ with code and questions of my 100 days of dsa
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0696-count-binary-substrings) |
+| [1143-longest-common-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -85,6 +86,7 @@ with code and questions of my 100 days of dsa
 | [0416-partition-equal-subset-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
