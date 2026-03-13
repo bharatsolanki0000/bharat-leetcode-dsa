@@ -21,6 +21,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0067-add-binary) |
+| [0516-longest-palindromic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0696-count-binary-substrings](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0696-count-binary-substrings) |
 | [1143-longest-common-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -84,6 +85,7 @@ with code and questions of my 100 days of dsa
 | [0198-house-robber](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0198-house-robber) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1143-longest-common-subsequence) |
