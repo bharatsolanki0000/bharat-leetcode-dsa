@@ -52,6 +52,7 @@ with code and questions of my 100 days of dsa
 | [0031-next-permutation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0119-pascals-triangle-ii) |
@@ -103,6 +104,7 @@ with code and questions of my 100 days of dsa
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0169-majority-element) |
@@ -116,6 +118,7 @@ with code and questions of my 100 days of dsa
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
