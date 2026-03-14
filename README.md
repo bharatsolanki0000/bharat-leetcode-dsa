@@ -62,6 +62,7 @@ with code and questions of my 100 days of dsa
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0416-partition-equal-subset-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0485-max-consecutive-ones) |
@@ -115,6 +116,7 @@ with code and questions of my 100 days of dsa
 | [0142-linked-list-cycle-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
