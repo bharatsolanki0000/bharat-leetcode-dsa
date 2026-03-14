@@ -51,6 +51,7 @@ with code and questions of my 100 days of dsa
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0088-merge-sorted-array) |
@@ -79,6 +80,7 @@ with code and questions of my 100 days of dsa
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0096-unique-binary-search-trees) |
@@ -144,6 +146,7 @@ with code and questions of my 100 days of dsa
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0190-reverse-bits) |
