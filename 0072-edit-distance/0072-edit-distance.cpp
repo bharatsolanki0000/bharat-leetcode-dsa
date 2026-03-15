@@ -77,13 +77,66 @@ class Solution {
             return dp[i][j]=ans;
 
     }
+
+
+    int tabuSolve(string word1, string word2){
+        vector<vector<int>> dp(word1.length()+1, vector<int> (word2.length()+1, 0));
+
+        //base
+        for(int i=0;i<word1.size();i++){
+            dp[i][word2.length()]=word1.length()-i;    
+        }
+
+        for(int j=0;j<word2.size();j++){
+            dp[word1.length()][j]=word2.length()-j;
+        }
+
+
+        //word 1 of ith index
+        for(int i=word1.length()-1;i>=0;i--){
+            
+            //jth for word2
+            for(int j=word2.length()-1;j>=0;j--){
+
+                int ans=0;
+                if(word1[i]==word2[j]){
+                    ans=dp[i+1][j+1];
+                }
+                else{
+                    //INSERT
+                    int insertChar=dp[i][j+1];
+                    
+
+                    //DELETE
+                    int deleteChar=dp[i+1][j];
+                    
+
+
+                    //REPLACE
+                    int replaceChar=dp[i+1][j+1];
+
+
+                    ans=1+min({insertChar, replaceChar, deleteChar});
+
+                    }
+
+                    dp[i][j]=ans;
+
+                }
+        }
+
+        return dp[0][0];
+    }
 public:
     int minDistance(string word1, string word2) {
         //return solve(word1, word2, 0,0);
 
         //rec + memo
-        vector<vector<int>> dp(word1.length()+1, vector<int> (word2.length(), -1));
-        return dpSolve(word1,word2,0,0,dp);
+        // vector<vector<int>> dp(word1.length()+1, vector<int> (word2.length()+1, -1));
+        // return dpSolve(word1,word2,0,0,dp);
+
+        //tabulation
+        return tabuSolve(word1,word2);
     }
 };
 
