@@ -10,36 +10,28 @@ public:
             return 1;
         }
         
-        set<int> temp;
+        unordered_set<int> temp;
 
         for(auto ele: nums){
             temp.insert(ele);
         }
 
-
-        
-        int oldTop=*temp.begin();
-        temp.erase(temp.begin());
-
-        int count=1;
         int ans=1;
+        for(auto element: temp){
 
-        while(!temp.empty()){
-
-            int newTop=*temp.begin();
-            temp.erase(temp.begin());
-
-            if(oldTop+1==newTop){
-                count++;
+            int count=1;
+            int prevElement=element-1;
+            if(!temp.count(prevElement)){
+                
+                while(temp.count(element+1)){
+                    count++;
+                    element++;
+                }
 
                 ans=max(ans,count);
             }
-            else{
-                count=1;
-            }
-
-            oldTop=newTop;
         }
+        
         return ans;
     }
 };
