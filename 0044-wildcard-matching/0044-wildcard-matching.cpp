@@ -114,6 +114,46 @@ class Solution {
         return dp[0][0];
     }
 
+    bool soSolve(string &s, string &p){
+        vector<int> curr(p.length()+1,0);
+         vector<int> next(p.length()+1,0);
+
+
+        next[p.length()]=1;
+  
+            for(int j=p.length()-1;j>=0;j--){
+                if(p[j]=='*'){
+                    next[j] = 1;
+                }
+                else{
+                    break;
+                }
+            }
+
+        for(int i=s.length()-1;i>=0;i--){
+
+            for(int j=p.length()-1;j>=0;j--){
+
+                
+                bool ans=false;
+                if(s[i]==p[j] || p[j]=='?'){
+                    ans=next[j+1];
+                }
+                else if(p[j]=='*'){
+                    bool letEmpty=curr[j+1];
+                    bool letChar=next[j];
+
+                    ans=letEmpty || letChar;
+                }
+
+                curr[j]=ans;
+
+            }
+            next=curr;
+        }
+
+        return next[0];
+    }
 
 public:
     bool isMatch(string s, string p) {
@@ -123,6 +163,8 @@ public:
         // vector<vector<int>> dp(s.length()+1, vector<int> (p.length()+1,-1));
         // return dpSolve(s,p,0,0,dp);
 
-        return tabuSolve(s,p);
+        //return tabuSolve(s,p);
+
+        return soSolve(s,p);
     }
 };
