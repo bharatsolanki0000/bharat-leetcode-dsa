@@ -56,6 +56,7 @@ with code and questions of my 100 days of dsa
 | [0048-rotate-image](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0118-pascals-triangle) |
@@ -141,6 +142,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0048-rotate-image](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +207,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0001-two-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
