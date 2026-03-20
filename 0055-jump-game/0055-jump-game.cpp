@@ -2,10 +2,7 @@ class Solution {
 
     bool solve(vector<int>& nums, int index){
 
-        if(index==nums.size()-1){
-            return true;
-        }
-
+        
         if(index>=nums.size()){
             return false;
         }
@@ -23,12 +20,10 @@ class Solution {
 
     bool dpSolve(vector<int>& nums, int index, vector<int>&dp){
 
-        if(index==nums.size()-1){
-            return true;
-        }
+        
 
         if(index>=nums.size()){
-            return false;
+            return true;
         }
 
         if(dp[index]!=-1){
@@ -49,7 +44,7 @@ class Solution {
     }
 
     int tabuSolve(vector<int>& nums){
-        vector<int> dp(nums.size()+1,0);
+        vector<int> dp(nums.size(),0);
 
         dp[nums.size()-1]=1;
 
@@ -71,6 +66,23 @@ class Solution {
 
     }
 
+    bool greedySolve(vector<int>&nums){
+        int maxIndex=0;
+
+        for(int i=0;i<nums.size();i++){
+
+            
+            if(i>maxIndex){
+                return false;
+            }
+            
+            maxIndex=max(maxIndex, i+nums[i]);
+           
+        }
+        return true;
+
+    }
+
 
 public:
     bool canJump(vector<int>& nums) {
@@ -85,6 +97,10 @@ public:
         // return dpSolve(nums,0,dp);
 
 
-        return tabuSolve(nums);
+        //return tabuSolve(nums);
+
+        //greedy
+
+        return greedySolve(nums);
     }
 };
