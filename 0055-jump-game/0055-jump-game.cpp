@@ -48,6 +48,29 @@ class Solution {
         
     }
 
+    int tabuSolve(vector<int>& nums){
+        vector<int> dp(nums.size()+1,0);
+
+        dp[nums.size()-1]=1;
+
+        for(int index=nums.size()-2;index>=0;index--){
+                
+            bool ans=false;
+            for(int i=index+1;i<=index+nums[index];i++){
+
+                if(dp[i]){
+                    ans= true;
+                    break;
+                }
+            }
+
+            dp[index]=ans;
+        }
+
+        return dp[0];
+
+    }
+
 
 public:
     bool canJump(vector<int>& nums) {
@@ -58,7 +81,10 @@ public:
 
         //return solve(nums,0);
 
-        vector<int> dp(nums.size()+1,-1);
-        return dpSolve(nums,0,dp);
+        // vector<int> dp(nums.size()+1,-1);
+        // return dpSolve(nums,0,dp);
+
+
+        return tabuSolve(nums);
     }
 };
