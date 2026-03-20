@@ -57,6 +57,7 @@ with code and questions of my 100 days of dsa
 | [0031-next-permutation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0075-sort-colors) |
@@ -89,6 +90,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0044-wildcard-matching](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0072-edit-distance) |
@@ -196,6 +198,7 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0455-assign-cookies) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
