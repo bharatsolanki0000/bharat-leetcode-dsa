@@ -1,44 +1,29 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-
-        if(nums.size()==1){
-            return nums[0];
-        }
         
 
+        long long prefix=1;
+        long long suffix=1;
+        int size=nums.size();
         long long maxProduct=INT_MIN;
 
-        long long tempProduct=1;
         for(int i=0;i<nums.size();i++){
 
-            if(nums[i]==0){
-              
-                maxProduct=max(maxProduct,(long long)0);
-                tempProduct=1;
-                continue;
+            if(prefix==0){
+                prefix=1;
             }
 
-            tempProduct*=nums[i];
-            maxProduct=max(maxProduct,tempProduct);
-
-        }
-        tempProduct=1;
-        for(int i=nums.size()-1;i>=0;i--){
-
-             if(nums[i]==0){
-                maxProduct=max(maxProduct,(long long)0);
-                tempProduct=1;
-                continue;
+            if(suffix==0){
+                suffix=1;
             }
 
-            tempProduct*=nums[i];
-            maxProduct=max(maxProduct,tempProduct);
+            prefix*=nums[i];
+            suffix*=nums[size-i-1];
 
+            maxProduct=max(maxProduct, max(prefix,suffix));
         }
 
         return maxProduct;
-
-
     }
 };
