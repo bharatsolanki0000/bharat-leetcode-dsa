@@ -84,6 +84,7 @@ with code and questions of my 100 days of dsa
 | [0416-partition-equal-subset-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0704-binary-search) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -173,6 +174,7 @@ with code and questions of my 100 days of dsa
 | [0287-find-the-duplicate-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0704-binary-search) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 ## Divide and Conquer
 |  |
