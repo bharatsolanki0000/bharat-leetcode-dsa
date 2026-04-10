@@ -6,26 +6,24 @@ public:
             return -1;
         }
 
-        int ans=INT_MAX;
+        int ans =INT_MAX;
 
-        for(int i=0;i<nums.size()-2;i++){
+        unordered_map<int,vector<int>> mp;
 
-            for(int j=i+1;j<nums.size()-1;j++){
+        for(int i=0;i<nums.size();i++){
 
-                for(int k=j+1;k<nums.size();k++){
+            mp[nums[i]].push_back(i);
 
-                    if(nums[i]==nums[j] &&  nums[i]==nums[k]){
-                        int first=abs(i-j);
-                        int second=abs(j-k);
-                        int third=abs(k-i);
-                        ans=min(ans, first+second+third);
-                    }
+            auto &v=mp[nums[i]];
+            int size=v.size();
 
-                }
+            if(size>=3){
+                ans=min(ans, 2*(v[size-1] -v[size-3]));
             }
-        } 
 
-        return ans!=INT_MAX?ans:-1;
+        }  
+
+        return ans==INT_MAX?-1:ans;
 
 
     }
