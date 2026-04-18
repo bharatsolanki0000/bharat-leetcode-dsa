@@ -18,6 +18,7 @@ with code and questions of my 100 days of dsa
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1622-fancy-sequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1622-fancy-sequence) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
