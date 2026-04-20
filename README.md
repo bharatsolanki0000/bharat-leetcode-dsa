@@ -109,6 +109,7 @@ with code and questions of my 100 days of dsa
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1980-find-unique-binary-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3546-equal-sum-grid-partition-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -246,6 +247,7 @@ with code and questions of my 100 days of dsa
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0455-assign-cookies) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
