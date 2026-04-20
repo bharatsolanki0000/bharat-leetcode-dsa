@@ -13,6 +13,7 @@ with code and questions of my 100 days of dsa
 | [0050-powx-n](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0096-unique-binary-search-trees) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -123,6 +124,7 @@ with code and questions of my 100 days of dsa
 | [0055-jump-game](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0118-pascals-triangle) |
@@ -379,4 +381,8 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0322-coin-change](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
