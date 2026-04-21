@@ -101,6 +101,7 @@ with code and questions of my 100 days of dsa
 | [0704-binary-search](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0704-binary-search) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0874-walking-robot-simulation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0874-walking-robot-simulation) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
@@ -279,6 +280,7 @@ with code and questions of my 100 days of dsa
 | [0229-majority-element-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0874-walking-robot-simulation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0874-walking-robot-simulation) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -371,6 +373,7 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0238-product-of-array-except-self) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
 |  |
