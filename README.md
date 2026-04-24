@@ -40,6 +40,7 @@ with code and questions of my 100 days of dsa
 | [1980-find-unique-binary-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Bit Manipulation
@@ -295,6 +296,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0169-majority-element](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [2833-furthest-point-from-origin](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2833-furthest-point-from-origin) |
 ## Combinatorics
 |  |
 | ------- |
