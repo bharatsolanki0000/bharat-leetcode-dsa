@@ -109,6 +109,7 @@ with code and questions of my 100 days of dsa
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -200,6 +201,7 @@ with code and questions of my 100 days of dsa
 | [0073-set-matrix-zeroes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -243,6 +245,7 @@ with code and questions of my 100 days of dsa
 | [0145-binary-tree-postorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
@@ -321,6 +324,7 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Linked List
 |  |
@@ -399,6 +403,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0322-coin-change](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Memoization
 |  |
