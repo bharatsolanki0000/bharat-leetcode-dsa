@@ -7,7 +7,6 @@ public:
         ll ans=LLONG_MAX;
 
         for(int i=0;i<nums.size();i++){
-
             ll moves=0;
             for(int j=0;j<nums.size();j++){
                 
@@ -20,6 +19,10 @@ public:
                 else{
 
                     moves+=abs(abs(nums[i])-abs(nums[j]));
+                }
+
+                if(moves>ans){
+                    break;
                 }
             }
             ans=min(ans,moves);
