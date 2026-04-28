@@ -20,24 +20,14 @@ public:
         int target=nums[mid];
         for(int i=0;i<nums.size();i++){
 
-            if(i<mid){
-                int temp=target-nums[i];
+                int temp=abs(target-nums[i]);
 
                 if(temp%x!=0){
                     return -1;
                 }
 
                 ans+=temp/x;
-            }
-
-            if(i>mid){
-                int temp=nums[i]-target;
-                if(temp%x!=0){
-                    return -1;
-                }
-
-                ans+=temp/x;
-            }
+            
         }
 
         return ans;
