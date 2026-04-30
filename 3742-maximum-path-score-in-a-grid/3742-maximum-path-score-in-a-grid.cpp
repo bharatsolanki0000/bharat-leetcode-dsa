@@ -169,7 +169,7 @@ public:
         int colSize=grid[0].size();
       
         vector<vector<int>> temp={{1,0}, {0,1}};
-         vector<vector<vector<int>>> dp(rowSize+1, vector<vector<int>>(colSize+1, vector<int >(k+1,0)));
+        //  vector<vector<vector<int>>> dp(rowSize+1, vector<vector<int>>(colSize+1, vector<int >(k+1,0)));
         
         //rec
         // int result=solve(grid, k,temp, 0,0);
