@@ -164,25 +164,116 @@ class Solution {
         return dp[0][0][K];
 
     }
+    int solve2(vector<vector<int>>& grid, int k,int cost, int row, int col){
+
+        int rowSize=grid.size();
+        int colSize=grid[0].size();
+
+        if(row>=rowSize || col>=colSize){
+            return INT_MIN;
+        }
+
+        int newCost=cost+(grid[row][col]>0);
+
+        if(newCost>k){
+            return INT_MIN;
+        }
+
+        if(row==rowSize-1 && col==colSize-1){
+            return grid[row][col];
+        }
+
+    
+        int right=solve2(grid, k, newCost, row, col+1);
+        int down=solve2(grid, k, newCost, row+1,col);
+        int bestAns=max(right, down);
+
+
+        if(bestAns!=INT_MIN){
+            return grid[row][col]+bestAns;
+        }
+        return INT_MIN;
+    }
+
+
+
+     int dpSolve2(vector<vector<int>>& grid, int k,int cost, int row, int col,vector<vector<vector<int>>> &dp){
+
+
+         int rowSize=grid.size();
+        int colSize=grid[0].size();
+
+        if(row>=rowSize || col>=colSize){
+            return INT_MIN;
+        }
+
+        int newCost=cost+(grid[row][col]>0);
+
+        if(newCost>k){
+            return INT_MIN;
+        }
+
+        if(row==rowSize-1 && col==colSize-1){
+            return grid[row][col];
+        }
+
+           
+        if(dp[row][col][cost]!=-1){ 
+            return dp[row][col][cost];
+        }
+
+
+    
+        int right=dpSolve2(grid, k, newCost, row, col+1,dp);
+        int down=dpSolve2(grid, k, newCost, row+1,col,dp);
+        int bestAns=max(right, down);
+
+
+        if(bestAns!=INT_MIN){
+            return dp[row][col][cost]=grid[row][col]+bestAns;
+        }
+        return dp[row][col][cost]=INT_MIN;
+
+       
+    }
+
 public:
     int maxPathScore(vector<vector<int>>& grid, int k) {
         int rowSize=grid.size();
         int colSize=grid[0].size();
       
-        vector<vector<int>> temp={{1,0}, {0,1}};
+       // vector<vector<int>> temp={{1,0}, {0,1}};
         //rec
         // int result=solve(grid, k,temp, 0,0);
         // return result!=INT_MIN?result:-1;
 
 
         //rec + memo
-        vector<vector<vector<int>>> dp(rowSize+1, vector<vector<int>>(colSize+1, vector<int >(k+1,-1)));
-        int result=dpSolve(grid, k,temp, 0,0,dp);
-        return result!=INT_MIN?result:-1;
+        // vector<vector<vector<int>>> dp(rowSize+1, vector<vector<int>>(colSize+1, vector<int >(k+1,-1)));
+        // int result=dpSolve(grid, k,temp, 0,0,dp);
+        // return result!=INT_MIN?result:-1;
 
         //tabu
         // int result=tabuSolve(grid, k);
         // return result!=INT_MIN?result:-1;
+
+
+
+
+
+
+
+        // REC
+        // int result=solve2(grid, k,0, 0,0);
+        // return result!=INT_MIN?result:-1;
+
+       // rec + memo
+        vector<vector<vector<int>>> dp(rowSize+1, vector<vector<int>>(colSize+1, vector<int >(k+1,-1)));
+        int result=dpSolve2(grid, k,0, 0,0,dp);
+        return result!=INT_MIN?result:-1;
+
+
+
 
     }
 };
