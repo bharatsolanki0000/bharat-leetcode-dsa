@@ -72,6 +72,7 @@ with code and questions of my 100 days of dsa
 | [0018-4sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0046-permutations) |
@@ -219,6 +220,7 @@ with code and questions of my 100 days of dsa
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
