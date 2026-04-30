@@ -237,6 +237,50 @@ class Solution {
        
     }
 
+    int tabuSolve2(vector<vector<int>>& grid, int k){
+    int rowSize = grid.size();
+    int colSize = grid[0].size();
+
+    vector<vector<vector<int>>> dp(
+        rowSize, vector<vector<int>>(colSize, vector<int>(k+1, INT_MIN))
+    );
+
+    for(int row = rowSize-1; row >= 0; row--){
+        for(int col = colSize-1; col >= 0; col--){
+            for(int cost = k; cost >= 0; cost--){
+
+                int newCost = cost + (grid[row][col]>0);
+
+                if(newCost > k) continue;
+
+                // Base case
+                if(row == rowSize-1 && col == colSize-1){
+                    dp[row][col][cost] = grid[row][col];
+                    continue;
+                }
+
+                int right = INT_MIN;
+                int down  = INT_MIN;
+
+                if(row + 1 < rowSize){
+                    down = dp[row+1][col][newCost];
+                }
+
+                if(col + 1 < colSize){
+                    right = dp[row][col+1][newCost];
+                }
+
+                int bestAns = max(right, down);
+
+                if(bestAns != INT_MIN){
+                    dp[row][col][cost] = grid[row][col] + bestAns;
+                }
+            }
+        }
+    }
+
+    return dp[0][0][0];
+}
 public:
     int maxPathScore(vector<vector<int>>& grid, int k) {
         int rowSize=grid.size();
@@ -268,9 +312,15 @@ public:
         // return result!=INT_MIN?result:-1;
 
        // rec + memo
-        vector<vector<vector<int>>> dp(rowSize+1, vector<vector<int>>(colSize+1, vector<int >(k+1,-1)));
-        int result=dpSolve2(grid, k,0, 0,0,dp);
+        // vector<vector<vector<int>>> dp(rowSize+1, vector<vector<int>>(colSize+1, vector<int >(k+1,-1)));
+        // int result=dpSolve2(grid, k,0, 0,0,dp);
+        // return result!=INT_MIN?result:-1;
+
+        
+        //tabu
+        int result=tabuSolve2(grid, k);
         return result!=INT_MIN?result:-1;
+
 
 
 
