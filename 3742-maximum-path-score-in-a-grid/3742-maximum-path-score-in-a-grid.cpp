@@ -101,12 +101,75 @@ class Solution {
         
         
     }
+
+    int tabuSolve(vector<vector<int>>& grid, int K){
+        int rowSize=grid.size();
+        int colSize=grid[0].size();
+      
+        vector<vector<int>> temp={{1,0}, {0,1}};
+        vector<vector<vector<int>>> dp(rowSize, vector<vector<int>>(colSize, vector<int >(K+1,0)));
+        
+       
+        for(int row=rowSize-1;row>=0;row--){
+            for(int col=colSize-1;col>=0;col--){
+
+                dp[row][col][0]=INT_MIN;
+
+                for(int k=0;k<=K;k++){
+
+                        if(row==rowSize-1 && col==colSize-1){
+                        dp[row][col][k]=grid[row][col];
+                        continue;
+                        }
+
+                    int ans=INT_MIN;
+       
+                    for(int i=0;i<2;i++){
+                    
+                        int tempX=row+temp[i][0];
+                        int tempY=col+temp[i][1];
+
+                        if( tempY>=colSize || tempX>=rowSize ){
+                            continue;
+                        }
+                        int tempp=INT_MIN;
+
+                    
+                            if(grid[tempX][tempY]==0){
+                                tempp=dp[tempX][tempY][k];
+                            }
+                            else{
+
+                                if(k>0){
+                                    tempp=dp[tempX][tempY][k-1];
+                                }
+                            
+                            }  
+                        
+
+                        if(tempp!=INT_MIN){
+                            ans=max(ans, grid[row][col]+tempp);
+                        }
+
+                    }
+                    
+
+                    dp[row][col][k]=ans;
+                    
+                }
+            }
+        }
+
+        return dp[0][0][K];
+
+    }
 public:
     int maxPathScore(vector<vector<int>>& grid, int k) {
         int rowSize=grid.size();
         int colSize=grid[0].size();
       
         vector<vector<int>> temp={{1,0}, {0,1}};
+         vector<vector<vector<int>>> dp(rowSize+1, vector<vector<int>>(colSize+1, vector<int >(k+1,0)));
         
         //rec
         // int result=solve(grid, k,temp, 0,0);
@@ -114,8 +177,12 @@ public:
 
 
         //rec + memo
-        vector<vector<vector<int>>> dp(rowSize+1, vector<vector<int>>(colSize+1, vector<int >(k+1,-1)));
-        int result=dpSolve(grid, k,temp, 0,0,dp);
+        // vector<vector<vector<int>>> dp(rowSize+1, vector<vector<int>>(colSize+1, vector<int >(k+1,-1)));
+        // int result=dpSolve(grid, k,temp, 0,0,dp);
+        // return result!=INT_MIN?result:-1;
+
+
+        int result=tabuSolve(grid, k);
         return result!=INT_MIN?result:-1;
 
     }
