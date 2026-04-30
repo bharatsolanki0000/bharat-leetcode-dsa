@@ -12,7 +12,7 @@ class Solution {
 
             int mid=start+(end-start)/2;
 
-            if(nums[mid]>=nums[end]){
+            if(nums[mid]>nums[end]){
                 start=mid+1;
             }
             else{
