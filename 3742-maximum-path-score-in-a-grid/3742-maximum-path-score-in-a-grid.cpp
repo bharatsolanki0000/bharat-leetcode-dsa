@@ -117,6 +117,7 @@ class Solution {
 
                 for(int k=0;k<=K;k++){
 
+                    int currK = k;
                         if(row==rowSize-1 && col==colSize-1){
                         dp[row][col][k]=grid[row][col];
                         continue;
@@ -169,21 +170,19 @@ public:
         int colSize=grid[0].size();
       
         vector<vector<int>> temp={{1,0}, {0,1}};
-        //  vector<vector<vector<int>>> dp(rowSize+1, vector<vector<int>>(colSize+1, vector<int >(k+1,0)));
-        
         //rec
         // int result=solve(grid, k,temp, 0,0);
         // return result!=INT_MIN?result:-1;
 
 
         //rec + memo
-        // vector<vector<vector<int>>> dp(rowSize+1, vector<vector<int>>(colSize+1, vector<int >(k+1,-1)));
-        // int result=dpSolve(grid, k,temp, 0,0,dp);
-        // return result!=INT_MIN?result:-1;
-
-
-        int result=tabuSolve(grid, k);
+        vector<vector<vector<int>>> dp(rowSize+1, vector<vector<int>>(colSize+1, vector<int >(k+1,-1)));
+        int result=dpSolve(grid, k,temp, 0,0,dp);
         return result!=INT_MIN?result:-1;
+
+        //tabu
+        // int result=tabuSolve(grid, k);
+        // return result!=INT_MIN?result:-1;
 
     }
 };
