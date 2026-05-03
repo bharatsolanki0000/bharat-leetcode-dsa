@@ -34,6 +34,7 @@ with code and questions of my 100 days of dsa
 | [0516-longest-palindromic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -431,4 +432,8 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
