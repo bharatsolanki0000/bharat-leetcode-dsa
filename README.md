@@ -111,6 +111,7 @@ with code and questions of my 100 days of dsa
 | [0455-assign-cookies](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0704-binary-search) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0874-walking-robot-simulation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0874-walking-robot-simulation) |
@@ -323,6 +324,7 @@ with code and questions of my 100 days of dsa
 | [0169-majority-element](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0874-walking-robot-simulation) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
@@ -421,6 +423,7 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
