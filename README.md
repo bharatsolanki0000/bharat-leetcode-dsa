@@ -132,6 +132,7 @@ with code and questions of my 100 days of dsa
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3546-equal-sum-grid-partition-i) |
+| [3660-jump-game-ix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -169,6 +170,7 @@ with code and questions of my 100 days of dsa
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3660-jump-game-ix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Sorting
 |  |
