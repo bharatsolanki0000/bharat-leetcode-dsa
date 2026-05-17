@@ -39,7 +39,7 @@ class Solution {
     }
 
     
-    bool solve2(vector<int>& arr, int index){ 
+    bool dfs(vector<int>& arr, int index){ 
         int size=arr.size();
 
         if(index<0 || index>=size || arr[index]<0){
@@ -50,20 +50,63 @@ class Solution {
             return true;
         }
 
+        int newIndex=arr[index];
         arr[index]*=-1;
-        int next=solve2(arr, index+arr[index]);
-        int prev=solve2(arr, index-arr[index]);
+
+        int next=dfs(arr, index+newIndex);
+        int prev=dfs(arr, index-newIndex);
 
         return next || prev;
+    }
+
+
+    bool bfs(vector<int>& arr, int start){
+
+        queue<int>q;
+        q.push(start);
+
+
+        while(!q.empty()){
+
+            int size=q.size();
+
+            while(size--){
+
+                int index=q.front();
+                q.pop();
+
+                if(index<0 || index>=arr.size() || arr[index]<0){
+                    continue;
+                }
+
+
+                if(arr[index]==0){
+                    return true;
+                }
+
+                int newIndex=arr[index];
+                arr[index]*=-1;
+
+
+                q.push(index+newIndex);
+                q.push(index-newIndex);
+                
+            }
+            
+        }
+
+        return false;
     }
 public:
     bool canReach(vector<int>& arr, int start) {
 
-        // vector<int> visited(arr.size() ,0);
-        // visited[start]=1;
-        // return solve(arr,start, visited);
+        vector<int> visited(arr.size() ,0);
+        visited[start]=1;
+        return solve(arr,start, visited);
 
-        // using arr also as a viistied by putting -1 as viisted
-        return solve2(arr,start);
+       
+        return dfs(arr,start);
+
+        return bfs(arr, start);
     }
 };
