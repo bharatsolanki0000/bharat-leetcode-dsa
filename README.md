@@ -81,6 +81,7 @@ with code and questions of my 100 days of dsa
 | [0035-search-insert-position](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0053-maximum-subarray) |
@@ -183,6 +184,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0015-3sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0088-merge-sorted-array) |
@@ -406,6 +408,7 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0046-permutations](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0090-subsets-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1980-find-unique-binary-string) |
