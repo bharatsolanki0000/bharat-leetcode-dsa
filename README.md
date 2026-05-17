@@ -121,6 +121,7 @@ with code and questions of my 100 days of dsa
 | [0974-subarray-sums-divisible-by-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1306-jump-game-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1306-jump-game-iii) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -279,6 +280,7 @@ with code and questions of my 100 days of dsa
 | [0145-binary-tree-postorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1306-jump-game-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
@@ -445,6 +447,7 @@ with code and questions of my 100 days of dsa
 | [0102-binary-tree-level-order-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1306-jump-game-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Memoization
