@@ -1,16 +1,8 @@
 class Solution {
-public:
-    vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
 
-        if(A.size()==1){
-            
-            if(A[0]==B[0]){
-                return {1};
-            }
-            return {0};
-        }
+    vector<int> solve1(vector<int>& A, vector<int>& B){
         
-        unordered_map<int,int> mp;
+        vector<int> mp(51);
         vector<int> ans(A.size(),0);
 
         for(int i=0;i<A.size();i++){
@@ -22,7 +14,7 @@ public:
             }
             else{
 
-                if(mp.count(A[i])){
+                if(mp[A[i]]!=0){
                 ans[i]++;
                 }
                 else{
@@ -30,7 +22,7 @@ public:
                 }
 
 
-                if(mp.count(B[i])){
+                if(mp[B[i]]!=0){
                     ans[i]++;
                 }
                 else{
@@ -46,5 +38,22 @@ public:
         }
 
         return ans;
+
+    }
+
+    
+public:
+    vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
+
+          if(A.size()==1){
+            
+            if(A[0]==B[0]){
+                return {1};
+            }
+            return {0};
+        }
+        
+          return solve1(A,B);
+       
     }
 };
