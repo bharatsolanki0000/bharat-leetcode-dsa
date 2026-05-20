@@ -59,6 +59,7 @@ with code and questions of my 100 days of dsa
 | [0868-binary-gap](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -139,6 +140,7 @@ with code and questions of my 100 days of dsa
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3546-equal-sum-grid-partition-i) |
 | [3660-jump-game-ix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3660-jump-game-ix) |
@@ -350,6 +352,7 @@ with code and questions of my 100 days of dsa
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
