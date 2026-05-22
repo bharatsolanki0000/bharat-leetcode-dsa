@@ -10,17 +10,22 @@ class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         
-        set<ListNode*> allNodes;
-        while(headA){
-            allNodes.insert(headA);
-            headA=headA->next;
+        map<ListNode*,int> mp;
+
+        ListNode* first=headA;
+        ListNode* second=headB;
+
+        while(first){
+            mp[first]=1;
+            first=first->next;
         }
 
-        while(headB){
-            if(allNodes.count(headB)){
-                return headB;
+        while(second){
+
+            if(mp.count(second)){
+                return second;
             }
-            headB=headB->next;
+            second=second->next;
         }
 
         return nullptr;
