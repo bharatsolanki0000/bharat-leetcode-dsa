@@ -126,6 +126,7 @@ with code and questions of my 100 days of dsa
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1306-jump-game-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1345-jump-game-iv) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -180,6 +181,7 @@ with code and questions of my 100 days of dsa
 | [1143-longest-common-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1340-jump-game-v](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1340-jump-game-v) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -202,6 +204,7 @@ with code and questions of my 100 days of dsa
 | [0349-intersection-of-two-arrays](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1340-jump-game-v](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1340-jump-game-v) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
