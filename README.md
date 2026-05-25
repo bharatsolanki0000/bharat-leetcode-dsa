@@ -123,6 +123,7 @@ with code and questions of my 100 days of dsa
 | [0704-binary-search](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0704-binary-search) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0874-walking-robot-simulation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -262,6 +263,7 @@ with code and questions of my 100 days of dsa
 | [0349-intersection-of-two-arrays](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2540-minimum-common-value) |
