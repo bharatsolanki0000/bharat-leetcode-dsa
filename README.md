@@ -147,6 +147,7 @@ with code and questions of my 100 days of dsa
 | [1848-minimum-distance-to-the-target-element](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1901-find-a-peak-element-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1914-cyclically-rotating-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -255,6 +256,7 @@ with code and questions of my 100 days of dsa
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1901-find-a-peak-element-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -282,6 +284,7 @@ with code and questions of my 100 days of dsa
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1901-find-a-peak-element-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
