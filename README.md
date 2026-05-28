@@ -34,6 +34,7 @@ with code and questions of my 100 days of dsa
 | [0072-edit-distance](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0402-remove-k-digits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0657-robot-return-to-origin) |
@@ -346,6 +347,7 @@ with code and questions of my 100 days of dsa
 | [0045-jump-game-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0455-assign-cookies) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
@@ -457,6 +459,7 @@ with code and questions of my 100 days of dsa
 | [0094-binary-tree-inorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0402-remove-k-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -532,4 +535,8 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
