@@ -41,6 +41,7 @@ with code and questions of my 100 days of dsa
 | [0657-robot-return-to-origin](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -469,6 +470,7 @@ with code and questions of my 100 days of dsa
 | [0144-binary-tree-preorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
