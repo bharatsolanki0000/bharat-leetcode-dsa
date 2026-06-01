@@ -157,6 +157,7 @@ with code and questions of my 100 days of dsa
 | [1980-find-unique-binary-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2553-separate-the-digits-in-an-array) |
@@ -227,6 +228,7 @@ with code and questions of my 100 days of dsa
 | [1340-jump-game-v](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1340-jump-game-v) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Two Pointers
 |  |
@@ -357,6 +359,7 @@ with code and questions of my 100 days of dsa
 | [0455-assign-cookies](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0455-assign-cookies) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
