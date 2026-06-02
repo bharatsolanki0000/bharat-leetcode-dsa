@@ -4,56 +4,51 @@ public:
         
 
         int i=0;
-        long long ans=0;
 
-        //remove white space from front
-        while(i<s.length() && s[i]==' '){
+        //white spaces remove
+        while(s[i]==' '){
             i++;
         }
- 
-        bool minus=false;
 
+        bool minus=false;
         if(s[i]=='-'){
             minus=true;
             i++;
         }
         else if(s[i]=='+'){
-            minus=false;
             i++;
         }
 
-        bool outRange=false;
+        while(s[i]=='0'){
+            i++;
+        }
 
-        while(i<s.length() && (s[i]>='0' && s[i]<='9')){
+        long long ans=0; 
+
+
+        while(i<s.length() && '0'<=s[i] && s[i]<='9'){
             int digit=s[i]-'0';
-            
             ans=(ans*10)+digit;
-            
-            if((ans<INT_MIN) || (ans>INT_MAX)){
-                outRange=true;
-                break;
-            }
-            i++;
-        }
 
-        if(outRange){
-             if(minus){
-                return INT_MIN;
+            if(ans>INT_MAX){
+            
+                if(minus){
+                    return INT_MIN;
+                }
+                else{
+                    return INT_MAX;
+                }
+               
             }
-            else{
-                return INT_MAX;
-            }
+            
+            i++;
         }
 
         if(minus){
-            return -ans;
-        }
-        else{
-            return ans;
+            ans=-ans;
         }
 
-        
 
-
+        return ans==0?0:ans;
     }
 };
