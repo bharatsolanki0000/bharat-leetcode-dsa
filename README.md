@@ -45,6 +45,7 @@ with code and questions of my 100 days of dsa
 | [1143-longest-common-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1980-find-unique-binary-string) |
@@ -476,6 +477,7 @@ with code and questions of my 100 days of dsa
 | [0145-binary-tree-postorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
