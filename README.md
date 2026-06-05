@@ -251,6 +251,7 @@ with code and questions of my 100 days of dsa
 | [0142-linked-list-cycle-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -385,6 +386,7 @@ with code and questions of my 100 days of dsa
 | [0044-wildcard-matching](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -457,6 +459,7 @@ with code and questions of my 100 days of dsa
 | [0148-sort-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
@@ -478,6 +481,7 @@ with code and questions of my 100 days of dsa
 | [0094-binary-tree-inorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
