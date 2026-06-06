@@ -9,43 +9,43 @@
  * };
  */
 class Solution {
-    ListNode* rev(ListNode* head){
 
-        if(head==nullptr || head->next==nullptr){
+    ListNode* rev(ListNode*head){
+        if(!head || !head->next){
             return head;
         }
 
-        ListNode* last=rev(head->next);  
+        ListNode* last=rev(head->next);
         head->next->next=head;
         head->next=nullptr;
         return last;
     }
-
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-
-        if(head==nullptr || head->next==nullptr){
-            return head;
-        }
-        int count=k-1;
-
-        ListNode* startNode=head;
-
-        while(startNode && count>0){
-            count--;
-            startNode=startNode->next;
-        }
         
-        if(startNode == nullptr)
+        ListNode* temp=head;
+
+        for(int i=1;i<k;i++){
+
+            if(temp==nullptr){
+                return head;
+            }
+
+            temp=temp->next;
+        }
+
+        if(temp==nullptr){
             return head;
+        }
 
-        ListNode* newHead=startNode->next;
-        startNode->next=nullptr;
+        ListNode* newStartNode=temp->next;
+
+        temp->next=nullptr;
+
         ListNode* revNode=rev(head);
-        head->next=reverseKGroup(newHead, k);
-        head=revNode;
-        return head;
 
+        head->next=reverseKGroup(newStartNode, k);
+        return revNode;
 
     }
 };
