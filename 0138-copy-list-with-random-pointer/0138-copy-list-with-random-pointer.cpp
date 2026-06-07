@@ -17,37 +17,40 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        Node* temp=head;
+        Node*temp=head;
 
+        unordered_map<Node*,Node*> oriToClone;
+
+
+        //insert original node and copy node into map
         while(temp){
             Node* newNode=new Node(temp->val);
-            Node* newNext=temp->next;
-            temp->next=nullptr;
-            temp->next=newNode;
-            newNode->next=newNext;
-
-            temp=temp->next->next;
-        }
-
-        temp=head;
-        while(temp){
-            Node* newTemp=temp->next;
-            if(temp->random){
-                temp->next->random=temp->random->next;
-            }
-            temp=temp->next->next;
-        }
-
-        Node* ans=new Node(-1);
-        Node* result=ans;
-
-        temp=head;
-        while(temp){
-            ans->next=temp->next;
-            ans=ans->next;
-            temp->next=temp->next->next;
+            oriToClone[temp]=newNode;
             temp=temp->next;
         }
-        return result->next;
+
+        temp=head;
+
+    // connect ori->next for copy->next=node
+        while(temp){
+
+
+            //next of copy will be same as temp->next
+            Node* nextCopyNode=oriToClone[temp->next];
+            Node* copyNode=oriToClone[temp];
+
+            copyNode->next=nextCopyNode;
+
+            //random of cpy will be same as temp->random
+            Node* randomCopyNode=oriToClone[temp->random];
+
+            copyNode->random=randomCopyNode;
+            temp=temp->next;
+
+        }
+
+        return oriToClone[head];
+
+
     }
 };
