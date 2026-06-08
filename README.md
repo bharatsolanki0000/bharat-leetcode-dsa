@@ -64,6 +64,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0067-add-binary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
@@ -118,6 +119,7 @@ with code and questions of my 100 days of dsa
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0169-majority-element) |
