@@ -65,6 +65,7 @@ with code and questions of my 100 days of dsa
 | [0067-add-binary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -322,6 +323,7 @@ with code and questions of my 100 days of dsa
 | [0148-sort-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
