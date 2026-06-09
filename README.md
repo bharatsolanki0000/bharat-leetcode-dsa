@@ -16,6 +16,7 @@ with code and questions of my 100 days of dsa
 | [0067-add-binary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0096-unique-binary-search-trees) |
+| [0204-count-primes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0204-count-primes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -127,6 +128,7 @@ with code and questions of my 100 days of dsa
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0238-product-of-array-except-self) |
@@ -546,6 +548,7 @@ with code and questions of my 100 days of dsa
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0204-count-primes) |
 | [3546-equal-sum-grid-partition-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3546-equal-sum-grid-partition-i) |
 ## Breadth-First Search
 |  |
@@ -589,4 +592,8 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0146-lru-cache) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
