@@ -73,6 +73,7 @@ with code and questions of my 100 days of dsa
 | [0868-binary-gap](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
