@@ -502,6 +502,7 @@ with code and questions of my 100 days of dsa
 | [0144-binary-tree-preorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -533,6 +534,7 @@ with code and questions of my 100 days of dsa
 | [0146-lru-cache](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
@@ -602,4 +604,5 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
