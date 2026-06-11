@@ -39,8 +39,37 @@ class Solution {
 
 
     }
+
+    int twoPointers(vector<int>&nums){
+
+        int leftMax=0;
+        int rightMax=0;
+
+
+        int left=0;
+        int right=nums.size()-1;
+        int ans=0;
+
+        while(left< right){
+            leftMax=max(leftMax, nums[left]);
+            rightMax=max(rightMax, nums[right]);
+
+            if(leftMax< rightMax){
+                ans+=(leftMax)-nums[left];
+                left++;
+            }
+            else{
+                ans+=(rightMax)-nums[right];
+                right--;
+            }
+        }
+
+        return ans;
+    }
 public:
     int trap(vector<int>& height) {
-        return twoVectors(height);
+        //return twoVectors(height);
+
+        return twoPointers(height);
     }
 };
