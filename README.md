@@ -117,6 +117,7 @@ with code and questions of my 100 days of dsa
 | [0075-sort-colors](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0118-pascals-triangle) |
@@ -204,6 +205,7 @@ with code and questions of my 100 days of dsa
 | [0064-minimum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0119-pascals-triangle-ii) |
@@ -294,6 +296,7 @@ with code and questions of my 100 days of dsa
 | [0064-minimum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -513,6 +516,7 @@ with code and questions of my 100 days of dsa
 | [0020-valid-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
@@ -613,6 +617,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
