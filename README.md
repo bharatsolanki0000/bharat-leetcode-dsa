@@ -530,6 +530,7 @@ with code and questions of my 100 days of dsa
 | [0402-remove-k-digits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -562,6 +563,7 @@ with code and questions of my 100 days of dsa
 | [0208-implement-trie-prefix-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
@@ -623,6 +625,7 @@ with code and questions of my 100 days of dsa
 | [0085-maximal-rectangle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
 ## Doubly-Linked List
 |  |
@@ -637,4 +640,8 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
