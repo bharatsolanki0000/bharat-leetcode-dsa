@@ -158,6 +158,7 @@ with code and questions of my 100 days of dsa
 | [0875-koko-eating-bananas](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -329,6 +330,7 @@ with code and questions of my 100 days of dsa
 | [0410-split-array-largest-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -473,6 +475,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0076-minimum-window-substring) |
+| [1004-max-consecutive-ones-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Union-Find
 |  |
@@ -579,6 +582,7 @@ with code and questions of my 100 days of dsa
 | [0410-split-array-largest-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [2574-left-and-right-sum-differences](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2574-left-and-right-sum-differences) |
 | [3546-equal-sum-grid-partition-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
