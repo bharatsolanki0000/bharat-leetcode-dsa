@@ -288,6 +288,7 @@ with code and questions of my 100 days of dsa
 | [0876-middle-of-the-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
@@ -501,6 +502,7 @@ with code and questions of my 100 days of dsa
 | [0328-odd-even-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -534,6 +536,7 @@ with code and questions of my 100 days of dsa
 | [0907-sum-of-subarray-minimums](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
 |  |
 | ------- |
