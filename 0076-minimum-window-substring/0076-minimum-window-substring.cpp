@@ -5,7 +5,7 @@ public:
         if (s.length() < t.length())
             return "";
 
-        unordered_map<char, int> freq;
+        vector<int> freq(128,0);
 
         for (char ch : t)
             freq[ch]++;
