@@ -5,17 +5,20 @@ public:
           int i=0;
           int j=0;
           int ans=0;
-          unordered_map<int,int> mp;
+          vector<int> mp(256);
+
+          
 
           while(j<s.length()){
+               mp[s[j]]++;
 
-            while(mp.count(s[j])){
-                mp.erase(s[i]);
+            while(mp[s[j]]>1){
+                mp[s[i]]--;
                 i++;
             }
-            
-            mp[s[j]]++;
-            ans=max(ans,(int) mp.size());
+
+         
+            ans=max(ans,j-i+1);
             j++;
           }
 
