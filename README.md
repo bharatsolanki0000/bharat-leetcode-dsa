@@ -168,6 +168,7 @@ with code and questions of my 100 days of dsa
 | [1345-jump-game-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1345-jump-game-iv) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -480,6 +481,7 @@ with code and questions of my 100 days of dsa
 | [0076-minimum-window-substring](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0076-minimum-window-substring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Union-Find
 |  |
@@ -587,6 +589,7 @@ with code and questions of my 100 days of dsa
 | [0560-subarray-sum-equals-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2574-left-and-right-sum-differences) |
 | [3546-equal-sum-grid-partition-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
