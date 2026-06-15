@@ -39,6 +39,7 @@ with code and questions of my 100 days of dsa
 | [0076-minimum-window-substring](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0402-remove-k-digits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0647-palindromic-substrings) |
@@ -443,6 +444,7 @@ with code and questions of my 100 days of dsa
 | [0208-implement-trie-prefix-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -479,6 +481,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
