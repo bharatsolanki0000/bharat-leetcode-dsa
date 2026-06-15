@@ -36,11 +36,11 @@ class Solution {
             maxFreq=max(maxFreq, freq[s[j]]);
 
             
-            while((j-i+1)-maxFreq>k){
-                
+            //while((j-i+1)-maxFreq>k){             second optimal
+            if((j-i+1-maxFreq>k)){
                 freq[s[i]]--;
                // maxFreq=-1;
-                // for(int k=0;k<128;k++){
+                // for(int k=0;k<128;k++){                 first optimal
                 //     maxFreq=max(maxFreq, freq[k]);
                 // }
                 i++;
