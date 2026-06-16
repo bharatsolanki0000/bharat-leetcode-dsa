@@ -46,6 +46,7 @@ with code and questions of my 100 days of dsa
 | [0657-robot-return-to-origin](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -408,6 +409,7 @@ with code and questions of my 100 days of dsa
 | [0402-remove-k-digits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0455-assign-cookies) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -548,6 +550,7 @@ with code and questions of my 100 days of dsa
 | [0735-asteroid-collision](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
