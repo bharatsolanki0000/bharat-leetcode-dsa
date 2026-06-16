@@ -62,6 +62,7 @@ with code and questions of my 100 days of dsa
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
@@ -90,6 +91,7 @@ with code and questions of my 100 days of dsa
 | [1914-cyclically-rotating-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1914-cyclically-rotating-a-grid) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2553-separate-the-digits-in-an-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
