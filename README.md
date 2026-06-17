@@ -141,6 +141,7 @@ with code and questions of my 100 days of dsa
 | [0198-house-robber](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0238-product-of-array-except-self) |
@@ -330,6 +331,7 @@ with code and questions of my 100 days of dsa
 | [0074-search-a-2d-matrix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -487,6 +489,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -595,6 +598,7 @@ with code and questions of my 100 days of dsa
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
