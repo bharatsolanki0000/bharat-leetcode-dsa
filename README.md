@@ -33,6 +33,7 @@ with code and questions of my 100 days of dsa
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0067-add-binary) |
@@ -214,6 +215,7 @@ with code and questions of my 100 days of dsa
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0045-jump-game-ii) |
@@ -591,6 +593,7 @@ with code and questions of my 100 days of dsa
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0090-subsets-ii) |
