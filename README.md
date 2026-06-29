@@ -150,6 +150,7 @@ with code and questions of my 100 days of dsa
 | [0204-count-primes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -603,6 +604,7 @@ with code and questions of my 100 days of dsa
 | [0046-permutations](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0216-combination-sum-iii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1980-find-unique-binary-string) |
 ## Binary Search Tree
