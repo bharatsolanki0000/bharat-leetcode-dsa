@@ -39,6 +39,7 @@ with code and questions of my 100 days of dsa
 | [0067-add-binary](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0402-remove-k-digits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -129,6 +130,7 @@ with code and questions of my 100 days of dsa
 | [0073-set-matrix-zeroes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0085-maximal-rectangle) |
@@ -331,6 +333,7 @@ with code and questions of my 100 days of dsa
 | [0064-minimum-path-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -402,6 +405,7 @@ with code and questions of my 100 days of dsa
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -603,6 +607,7 @@ with code and questions of my 100 days of dsa
 | [0040-combination-sum-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0216-combination-sum-iii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
