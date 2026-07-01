@@ -10,34 +10,30 @@
  * };
  */
 class Solution {
-    typedef  long long ll;
 
-    bool solve(TreeNode* root, ll mini, ll maxi){
+    bool solve(TreeNode* root, long long mini,long long maxi){
 
-        if(!root){
+        if(root==nullptr){
             return true;
         }
 
+        bool leftSide=solve(root->left,mini,root->val);
+        bool rightSide=solve(root->right, root->val,maxi);
 
-        if(root->val <=mini || root->val >= maxi){
-            return false;
+        bool condition=(root->val >mini && root->val< maxi);
+
+        if(leftSide && rightSide && condition){
+            return true;
         }
 
-        
-        bool leftNode=solve(root->left, mini, root->val);
-        bool rightNode=solve(root->right, root->val, maxi);
-
-        
-
-        return leftNode && rightNode;
-
-        
+        return false;
     }
 public:
     bool isValidBST(TreeNode* root) {
-        
-        ll mini=LLONG_MIN;
-        ll maxi=LLONG_MAX;
-        return solve(root, mini,maxi);
+
+        if(!root->left && !root->right){
+            return true;
+        }
+        return solve(root,LLONG_MIN,LLONG_MAX);
     }
 };
