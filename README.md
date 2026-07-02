@@ -178,6 +178,7 @@ with code and questions of my 100 days of dsa
 | [0907-sum-of-subarray-minimums](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -338,6 +339,7 @@ with code and questions of my 100 days of dsa
 | [0200-number-of-islands](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -671,6 +673,7 @@ with code and questions of my 100 days of dsa
 | [0200-number-of-islands](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
