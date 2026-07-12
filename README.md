@@ -185,6 +185,7 @@ with code and questions of my 100 days of dsa
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1345-jump-game-iv) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
@@ -288,6 +289,7 @@ with code and questions of my 100 days of dsa
 | [0451-sort-characters-by-frequency](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1340-jump-game-v) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1710-maximum-units-on-a-truck](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1710-maximum-units-on-a-truck) |
@@ -506,6 +508,7 @@ with code and questions of my 100 days of dsa
 | [0992-subarrays-with-k-different-integers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
