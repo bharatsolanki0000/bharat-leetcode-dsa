@@ -428,6 +428,7 @@ with code and questions of my 100 days of dsa
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1306-jump-game-iii) |
@@ -475,6 +476,7 @@ with code and questions of my 100 days of dsa
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
 ## Recursion
@@ -690,6 +692,7 @@ with code and questions of my 100 days of dsa
 | [0322-coin-change](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -754,6 +757,7 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
@@ -762,5 +766,10 @@ with code and questions of my 100 days of dsa
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
