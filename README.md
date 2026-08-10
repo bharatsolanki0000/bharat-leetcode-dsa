@@ -21,6 +21,7 @@ with code and questions of my 100 days of dsa
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1510-stone-game-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1622-fancy-sequence) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -266,6 +267,7 @@ with code and questions of my 100 days of dsa
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1340-jump-game-v) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
+| [1510-stone-game-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1510-stone-game-iv) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -649,6 +651,7 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [1510-stone-game-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1510-stone-game-iv) |
 ## Design
 |  |
 | ------- |
@@ -784,4 +787,20 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
