@@ -175,6 +175,7 @@ with code and questions of my 100 days of dsa
 | [0704-binary-search](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0778-swim-in-rising-water) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0874-walking-robot-simulation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0875-koko-eating-bananas) |
@@ -349,6 +350,7 @@ with code and questions of my 100 days of dsa
 | [0240-search-a-2d-matrix-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -378,6 +380,7 @@ with code and questions of my 100 days of dsa
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1027-longest-arithmetic-subsequence) |
@@ -432,6 +435,7 @@ with code and questions of my 100 days of dsa
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1306-jump-game-iii) |
@@ -481,6 +485,7 @@ with code and questions of my 100 days of dsa
 | [0451-sort-characters-by-frequency](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
 ## Recursion
@@ -565,6 +570,7 @@ with code and questions of my 100 days of dsa
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0778-swim-in-rising-water) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -699,6 +705,7 @@ with code and questions of my 100 days of dsa
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -782,6 +789,7 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Bellman–Ford Algorithm
 |  |
@@ -794,6 +802,7 @@ with code and questions of my 100 days of dsa
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0778-swim-in-rising-water) |
 | [1510-stone-game-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
