@@ -824,4 +824,8 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
