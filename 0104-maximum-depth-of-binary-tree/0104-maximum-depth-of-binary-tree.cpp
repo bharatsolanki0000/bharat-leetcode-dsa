@@ -21,8 +21,50 @@ class Solution {
 
         return 1+max(leftSide,rightSide);
     }
+
+    int bfsSolve(TreeNode*root){
+        
+        if(root==nullptr){
+            return 0;
+        }
+
+        if(!root->left && !root->right){
+            return 1;
+        }
+
+        queue<TreeNode*> q;
+        q.push(root);
+        int ans=0;
+
+        while(!q.empty()){
+            ans++;
+            int size=q.size();
+            while(size--){
+
+                 TreeNode* frontNode=q.front();
+                 q.pop();
+
+
+                if(frontNode->left){
+                    q.push(frontNode->left);
+                }
+
+                if(frontNode->right){
+                    q.push(frontNode->right);
+                }
+
+            }
+
+        }
+
+        return ans;
+    }
+
+
 public:
     int maxDepth(TreeNode* root) {
-        return solve(root);
+        //return solve(root);
+
+        return bfsSolve(root);
     }
 };
