@@ -33,8 +33,32 @@ class Solution {
 
         return true;
     }
+
+    bool bfsSolve(TreeNode* p, TreeNode* q){
+
+        queue<pair<TreeNode*,TreeNode*>> qu;
+        qu.push({p,q});
+
+
+        while(!qu.empty()){
+            auto top=qu.front();
+            TreeNode* first=top.first;
+            TreeNode* second=top.second;
+            qu.pop();
+
+            if(!first && !second)continue;
+
+            if(!first || !second || first->val!=second->val) return false;
+
+            qu.push({first->left, second->left});
+            qu.push({first->right,second->right});
+        }
+        return true;
+    }
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        return check(p,q);
+        //return check(p,q);
+
+        return bfsSolve(p,q);
     }
 };
