@@ -38,8 +38,33 @@ class Solution {
         return true;
         
     }
+
+    pair<bool,int> pairSolve(TreeNode* root){
+
+        if(root==nullptr){
+            return {true,0};
+        }
+
+        pair<bool,int> leftSide=pairSolve(root->left);
+        pair<bool,int> rightSide=pairSolve(root->right);
+
+        //diff
+        int diff=abs(leftSide.second-rightSide.second);
+
+        //if false
+        if(!leftSide.first || !rightSide.first || diff>1){
+            return {false,0};
+        }
+
+        return {true,1+max(leftSide.second, rightSide.second)};
+
+
+
+    }
 public:
     bool isBalanced(TreeNode* root) {
-        return solve(root);
+        //return solve(root);
+
+        return pairSolve(root).first;
     }
 };
