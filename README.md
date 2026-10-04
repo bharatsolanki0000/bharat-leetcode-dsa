@@ -50,6 +50,7 @@ with code and questions of my 100 days of dsa
 | [0516-longest-palindromic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -261,6 +262,7 @@ with code and questions of my 100 days of dsa
 | [0435-non-overlapping-intervals](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0907-sum-of-subarray-minimums](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
@@ -495,6 +497,7 @@ with code and questions of my 100 days of dsa
 | [0410-split-array-largest-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1388-pizza-with-3n-slices](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1388-pizza-with-3n-slices) |
 | [1710-maximum-units-on-a-truck](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1710-maximum-units-on-a-truck) |
@@ -653,6 +656,7 @@ with code and questions of my 100 days of dsa
 | [0234-palindrome-linked-list](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
@@ -859,6 +863,7 @@ with code and questions of my 100 days of dsa
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## DP on Trees
