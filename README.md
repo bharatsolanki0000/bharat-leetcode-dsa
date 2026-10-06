@@ -431,6 +431,7 @@ with code and questions of my 100 days of dsa
 | [0257-binary-tree-paths](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -456,6 +457,7 @@ with code and questions of my 100 days of dsa
 | [0543-diameter-of-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0743-network-delay-time) |
@@ -488,6 +490,7 @@ with code and questions of my 100 days of dsa
 | [0257-binary-tree-paths](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -749,6 +752,7 @@ with code and questions of my 100 days of dsa
 | [0322-coin-change](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0743-network-delay-time) |
