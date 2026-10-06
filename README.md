@@ -872,6 +872,7 @@ with code and questions of my 100 days of dsa
 | [0022-generate-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## DP on Trees
