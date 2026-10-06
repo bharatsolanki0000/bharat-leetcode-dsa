@@ -1,25 +1,21 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        
         int open=0;
-        int close=0;
+        int ans=0;
 
         for(auto ch:s){
-            if(ch==')'){
-
-                if(open>0){
-                    open--;
-                }
-                else{
-                    close++;
-                }
-            }
-            else{
+            if(ch=='('){
                 open++;
             }
+            else if(open){
+                open--;
+            }
+            else{
+                ans++;
+            }
         }
-        return open+close;
-        
+
+        return ans+open;
     }
 };
