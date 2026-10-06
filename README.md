@@ -435,6 +435,7 @@ with code and questions of my 100 days of dsa
 | [0703-kth-largest-element-in-a-stream](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -469,6 +470,7 @@ with code and questions of my 100 days of dsa
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
@@ -494,6 +496,7 @@ with code and questions of my 100 days of dsa
 | [0703-kth-largest-element-in-a-stream](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Greedy
 |  |
 | ------- |
@@ -570,6 +573,7 @@ with code and questions of my 100 days of dsa
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1980-find-unique-binary-string) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2540-minimum-common-value](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -766,6 +770,7 @@ with code and questions of my 100 days of dsa
 | [1345-jump-game-iv](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Memoization
 |  |
 | ------- |
