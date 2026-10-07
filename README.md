@@ -434,6 +434,7 @@ with code and questions of my 100 days of dsa
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -466,6 +467,7 @@ with code and questions of my 100 days of dsa
 | [0743-network-delay-time](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1306-jump-game-iii) |
@@ -497,6 +499,7 @@ with code and questions of my 100 days of dsa
 | [0637-average-of-levels-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -565,6 +568,7 @@ with code and questions of my 100 days of dsa
 | [0451-sort-characters-by-frequency](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0874-walking-robot-simulation) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -767,6 +771,7 @@ with code and questions of my 100 days of dsa
 | [0743-network-delay-time](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1091-shortest-path-in-binary-matrix) |
