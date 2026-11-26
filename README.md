@@ -25,6 +25,7 @@ with code and questions of my 100 days of dsa
 | [1622-fancy-sequence](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1622-fancy-sequence) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -105,6 +106,7 @@ with code and questions of my 100 days of dsa
 | [1914-cyclically-rotating-a-grid](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/1914-cyclically-rotating-a-grid) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/2553-separate-the-digits-in-an-array) |
+| [3360-stone-removal-game](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3360-stone-removal-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/bharatsolanki0000/bharat-leetcode-dsa/tree/master/3838-weighted-word-mapping) |
 ## Array
